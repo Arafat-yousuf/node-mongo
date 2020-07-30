@@ -16,5 +16,9 @@
     "express": "^4.17.1",
     "mongodb": "^3.5.9",
     "nodemon": "^2.0.4"
+  },
+  "engines": {
+    "node": "12.x"
   }
+  
 }
